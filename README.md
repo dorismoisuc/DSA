@@ -1,6 +1,6 @@
 # DSA
-lab work for DSA
-# lab: 
+## lab work for DSA
+### labs: 
 
 
 *lab 1. Ex 10. ADT Set represented as a dynamic array of elements.
